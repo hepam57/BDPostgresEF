@@ -1,0 +1,11 @@
+https://www.codeproject.com/Articles/96028/WCF-Service-with-custom-username-password-authenti
+http://www.diogonunes.com/blog/calling-a-web-method-in-c-without-a-service-reference/
+https://www.ryadel.com/en/create-soap-web-service-asp-net-wcf-c-sharp-visual-studio-iis/
+http://orienteeringorganiser.com/devarchweb/ws-wcf.html#Binding%20Types
+https://www.c-sharpcorner.com/UploadFile/db2972/wcf-address-binding-and-contract-day-10/
+https://www.tutorialspoint.com/wcf/wcf_quick_guide.htm
+https://nirajrules.wordpress.com/2009/05/22/username-over-https-custombinding-with-wcf%E2%80%99s-channelfactory-interface/
+https://stackoverflow.com/questions/10204864/wcf-authentication-not-working
+https://books.google.com.co/books?id=-AUyj6S7etwC&pg=PA175&lpg=PA175&dq=basichttpbinding+clientcredentialtype+username&source=bl&ots=4ydqZ5xCLK&sig=ACfU3U1v4x9iiqGaKStj57UbGmye_bF6Zg&hl=es-419&sa=X&ved=2ahUKEwj44OL01-TjAhUDwlkKHZ5gAHQQ6AEwBHoECAkQAQ#v=onepage&q=basichttpbinding%20clientcredentialtype%20username&f=false
+https://pdfs.semanticscholar.org/9baf/fddbe4d0bff6c41bec480e1ddca2d979ba59.pdf
+https://www.codeproject.com/Articles/96028/WCF-Service-with-custom-username-password-authenti
